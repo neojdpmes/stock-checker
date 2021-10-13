@@ -1,0 +1,17 @@
+{
+  "name": "stockchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notify.js",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "node-notifier": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node stockChecker.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
